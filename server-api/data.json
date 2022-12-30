@@ -1,0 +1,39 @@
+{
+  "quatation": [
+    {
+      "id": 1,
+      "name": "Cement",
+      "price": 100,
+      "uom": "Bags",
+      "qty": 10
+    },
+    {
+      "id": 2,
+      "name": "Steel",
+      "price": 150,
+      "uom": "Kgs",
+      "qty": 10
+    },
+    {
+      "id": 3,
+      "name": "Glass",
+      "price": 300,
+      "uom": "Nos",
+      "qty": 10
+    },
+    {
+      "id": 4,
+      "name": "Pipe",
+      "price": 250,
+      "uom": "Mtrs",
+      "qty": 10
+    },
+    {
+      "id": 5,
+      "name": "Wooden door",
+      "price": 400,
+      "uom": "Nos",
+      "qty": 2
+    }
+  ]
+}
